@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # update ssh config
 Host holberton
-    HostName 54.158.197.124
+    HostName 52.3.243.199
     User ubuntu
     Port 22
     IdentityFile ~/.ssh/holberton
