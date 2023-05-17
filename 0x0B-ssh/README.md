@@ -17,7 +17,7 @@ Automating configuration of multiple servers using Puppet.
 ##### `Name Username IP State`
 
 ```sh
-138551-web-01	     ubuntu	    52.3.243.199	    running	     Soft reboot	    Hard reboot	     Ask a new server
+138741-web-01	     ubuntu	    52.3.243.199	    running	     Soft reboot	    Hard reboot	     Ask a new server
 ```
 
 ## Authors :Thumbs_up:
